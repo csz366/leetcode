@@ -4,4 +4,4 @@
 ## 习题
 
 ## 周赛
-[第$150$场](docs/weeklycontest/150)
+[第150场](docs/weeklycontest/150)
